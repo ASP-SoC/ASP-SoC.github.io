@@ -22,3 +22,5 @@ Hardware-Software-Design
 Project Audio Signal Processing SoC - ASP-SoC
 
 mail: ASPSoC.fhHagenberg@gmail.com
+
+© 2017
