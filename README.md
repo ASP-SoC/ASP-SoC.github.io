@@ -7,5 +7,7 @@
 ### Contact
 
 University of Applied Sience Upper Austria Campus Hagenberg
+
 Project Audio Signal Processing SoC - ASP-SoC
-[Link](ASPSoC.fhHagenberg@gmail.com)
+
+ASPSoC.fhHagenberg@gmail.com
