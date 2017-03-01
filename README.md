@@ -2,12 +2,23 @@
 
 # Abstract
 
+The aim of the project is...
 
+# Team
 
-### Contact
+-Haberleitner David
+-Posch Johannes
+-Reisinger Thomas
+-Steiger Martin
+-Steinbacher Franz
+-Wurm Michael
 
-University of Applied Sience Upper Austria Campus Hagenberg
+# Contact
+
+**University of Applied Sience Upper Austria Campus Hagenberg**
+
+Hardware-Software-Design
 
 Project Audio Signal Processing SoC - ASP-SoC
 
-ASPSoC.fhHagenberg@gmail.com
+mail: ASPSoC.fhHagenberg@gmail.com
