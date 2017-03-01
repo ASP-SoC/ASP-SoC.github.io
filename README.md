@@ -15,7 +15,7 @@ The aim of the project is...
 
 # Contact
 
-![FHOOeLogo](/FhOOeLogoFeb2005.png?raw=true = 50x)
+![FHOOeLogo](/FhOOeLogoFeb2005.png?raw=true | width=50)
 
 **University of Applied Sience Upper Austria Campus Hagenberg**
 
