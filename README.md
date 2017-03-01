@@ -6,12 +6,12 @@ The aim of the project is...
 
 # Team
 
--Haberleitner David
--Posch Johannes
--Reisinger Thomas
--Steiger Martin
--Steinbacher Franz
--Wurm Michael
+- Haberleitner David
+- Posch Johannes
+- Reisinger Thomas
+- Steiger Martin
+- Steinbacher Franz
+- Wurm Michael
 
 # Contact
 
