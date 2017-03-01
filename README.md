@@ -15,7 +15,7 @@ The aim of the project is...
 
 # Contact
 
-![FHOOeLogo](/ASP-SoC.github.io/FhOOeLogoFeb2005.png?raw=true)
+![FHOOeLogo](/FhOOeLogoFeb2005.png?raw=true)
 
 **University of Applied Sience Upper Austria Campus Hagenberg**
 
