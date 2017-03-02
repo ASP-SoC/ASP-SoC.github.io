@@ -1,14 +1,11 @@
-<ul class="nav navbar-nav">
-{% assign sorted_pages = site.pages | sort:"name" %}
-{% for p in sorted_pages %}
-{% if p.id != "home" %}
-  <li>
-    <a href="/RDDR{{ p.url }}">
-  {{ p.title }}
-    </a>
+<ul class="topnav" id="myTopnav">
+  <li><a href="#abstract">Home</a></li>
+  <li><a href="#de1-soc-by-terasic">News</a></li>
+  <li><a href="#team">Contact</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li class="icon">
+    <a href="javascript:void(0);" onclick="myFunction()">&#9776;</a>
   </li>
-{% endif %}
-{% endfor %}
 </ul>
  
 ## Audio Signal Processing SoC - ASP-SoC
