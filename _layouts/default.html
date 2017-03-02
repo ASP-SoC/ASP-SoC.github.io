@@ -24,10 +24,10 @@
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
           
           <ul class="topnav" id="myTopnav">
-            <li><a href="#home">Home</a></li>
-            <li><a href="#news">News</a></li>
+            <li><a href="#abstract">Abstract</a></li>
+            <li><a href="#de1-soc-by-terasic">DE1</a></li>
+            <li><a href="#team">Team</a></li>
             <li><a href="#contact">Contact</a></li>
-            <li><a href="#about">About</a></li>
             <li class="icon">
               <a href="javascript:void(0);" onclick="myFunction()">&#9776;</a>
           </li>
@@ -58,6 +58,18 @@
         <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
       </footer>
     </div>
+    
+    <script>
+      /* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
+      function myFunction() {
+        var x = document.getElementById("myTopnav");
+          if (x.className === "topnav") {
+            x.className += " responsive";
+        } else {
+            x.className = "topnav";
+        }
+      }
+    </script>
 
     {% if site.google_analytics %}
       <script type="text/javascript">
