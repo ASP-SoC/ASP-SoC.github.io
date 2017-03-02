@@ -15,7 +15,7 @@ The aim of the project is...
 
 # Contact
 
-<img src="/Pictures/fhLogo.png" width="60" >
+<img src="/Pictures/fhLogo.png" width="100" >
 
 **University of Applied Science Upper Austria**
 **Campus Hagenberg**  
