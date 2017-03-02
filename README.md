@@ -15,13 +15,12 @@ The aim of the project is...
 
 # Contact
 
-<img src="/Pictures/fhLogo.png" >
+<img src="/Pictures/fhLogo.png" width="40" >
 
 **University of Applied Science Upper Austria**
 **Campus Hagenberg**  
 Department Hardware-Software-Design
 
-![fh logo](/Pictures/fhLogo.png?raw=true)
 
 Project Audio Signal Processing SoC - ASP-SoC  
 **mail:** ASPSoC.fhHagenberg@gmail.com  
