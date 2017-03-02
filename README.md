@@ -1,8 +1,8 @@
-[TOC]
+### [Abstract](#abstract) | [DE1](#de1-soc-by-terasic) | [Team](#team) | [Contact](#contact)
  
 ## Audio Signal Processing SoC - ASP-SoC
 
-### [Abstract](#abstract) [DE1](#de1-soc-by-terasic) [Team](#team) [Contact](#contact)
+
 
 # Abstract
 
