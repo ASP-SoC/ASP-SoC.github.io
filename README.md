@@ -1,6 +1,6 @@
 ## Audio Signal Processing SoC - ASP-SoC
 
-### [Abstract](#Abstract) [DE1](#DE1-SoC by Terasic) [Team](#Team) [Contact](#Contact)
+### [Abstract](#abstract) [DE1](#de1-soc-by-terasic) [Team](#team) [Contact](#contact)
 
 # Abstract
 
