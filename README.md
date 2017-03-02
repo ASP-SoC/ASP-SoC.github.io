@@ -15,6 +15,8 @@ The aim of the project is...
 
 # Contact
 
+<img src="/Pictures/fhLogo.png" >
+
 **University of Applied Science Upper Austria**
 **Campus Hagenberg**  
 Department Hardware-Software-Design
