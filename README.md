@@ -1,8 +1,11 @@
-[navbar]Brand reference
-***
-* Hierarchical
- * list of
- * menu items[/navbar]
+<div class="nav">
+<nav>
+  <ul>
+    <li><a href="index.html" id="intro">Home</a></li>
+    <li><a href="about.html" id="abt">About</a></li>
+  </ul>
+  </nav>
+</div>
  
 ## Audio Signal Processing SoC - ASP-SoC
 
