@@ -1,11 +1,15 @@
-<div class="nav">
-<nav>
-  <ul>
-    <li><a href="index.html" id="intro">Home</a></li>
-    <li><a href="about.html" id="abt">About</a></li>
-  </ul>
-  </nav>
-</div>
+<ul class="nav navbar-nav">
+{% assign sorted_pages = site.pages | sort:"name" %}
+{% for p in sorted_pages %}
+{% if p.id != "home" %}
+  <li>
+    <a href="/RDDR{{ p.url }}">
+  {{ p.title }}
+    </a>
+  </li>
+{% endif %}
+{% endfor %}
+</ul>
  
 ## Audio Signal Processing SoC - ASP-SoC
 
