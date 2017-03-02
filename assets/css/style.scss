@@ -31,3 +31,31 @@ ul.topnav li a:hover {background-color: #555;}
 
 /* Hide the list item that contains the link that should open and close the topnav on small screens */
 /*ul.topnav li.icon {display: none;}*/
+
+header {
+  top:0px;
+  position:fixed !important;
+  position:absolute;
+  height:15%;
+  width:100%;
+}
+nav {
+  bottom:0px;
+  height:30%;
+  left:0px;
+  position:absolute;
+  width:100%;
+}
+#Content {
+  top:15%;
+  height:80%;
+  position:relative;
+  overflow:auto;
+  width:100%;
+}
+footer {
+  bottom:0px;
+  position:absolute;
+  height:5%;
+  width:100%;
+}
