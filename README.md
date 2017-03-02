@@ -4,6 +4,12 @@
 
 The aim of the project is...
 
+#DE1-SoC by Terasic
+
+<img src="http://www.terasic.com.tw/attachment/archive/836/image/image_71_thumb.jpg" width="400" >
+
+<img src="http://www.terasic.com.tw/attachment/archive/836/image/DE1-SoC_Layout_top_01-01.jpg" width="400" >
+
 # Team
 
 - Haberleitner David
