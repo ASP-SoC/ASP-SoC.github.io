@@ -1,6 +1,8 @@
-## Project Audio Signal Processing SoC
+## Audio Signal Processing SoC
 
 # Home
+
+add some text
 
 # Abstract
 
