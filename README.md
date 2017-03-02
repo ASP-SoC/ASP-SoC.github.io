@@ -1,3 +1,9 @@
+[navbar]Brand reference
+***
+* Hierarchical
+ * list of
+ * menu items[/navbar]
+ 
 ## Audio Signal Processing SoC - ASP-SoC
 
 ### [Abstract](#abstract) [DE1](#de1-soc-by-terasic) [Team](#team) [Contact](#contact)
