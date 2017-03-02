@@ -15,9 +15,13 @@ The aim of the project is...
 
 # Contact
 
-**University of Applied Sience Upper Austria Campus Hagenberg**  
-Hardware-Software-Design
+**University of Applied Science Upper Austria**
+**Campus Hagenberg**  
+Department Hardware-Software-Design
+
+![fh logo](/Pictures/FhOOeLogoFeb2005.wmf?raw=true)
 
 Project Audio Signal Processing SoC - ASP-SoC  
-mail: ASPSoC.fhHagenberg@gmail.com  
+**mail:** ASPSoC.fhHagenberg@gmail.com  
+
 © 2017
