@@ -1,12 +1,4 @@
-<ul class="topnav" id="myTopnav">
-  <li><a href="#abstract">Home</a></li>
-  <li><a href="#de1-soc-by-terasic">News</a></li>
-  <li><a href="#team">Contact</a></li>
-  <li><a href="#contact">Contact</a></li>
-  <li class="icon">
-    <a href="javascript:void(0);" onclick="myFunction()">&#9776;</a>
-  </li>
-</ul>
+[TOC]
  
 ## Audio Signal Processing SoC - ASP-SoC
 
