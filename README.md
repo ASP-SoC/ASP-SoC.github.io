@@ -19,7 +19,7 @@ The aim of the project is...
 **Campus Hagenberg**  
 Department Hardware-Software-Design
 
-![fh logo](/Pictures/FhOOeLogoFeb2005.wmf?raw=true)
+![fh logo](/Pictures/fhLogo.png?raw=true)
 
 Project Audio Signal Processing SoC - ASP-SoC  
 **mail:** ASPSoC.fhHagenberg@gmail.com  
