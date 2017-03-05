@@ -1,5 +1,7 @@
 ## Audio Signal Processing SoC
 
+<img src="/Pictures/logo3.png" width="120" >
+
 # Home
 
 add some text
