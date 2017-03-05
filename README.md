@@ -1,6 +1,4 @@
-## Audio Signal Processing SoC
-
-<img src="/Pictures/logo3.png" width="400" >
+<img src="/Pictures/logo3.png">
 
 # Home
 
