@@ -10,7 +10,7 @@ The aim of this project is to creat a custom customizable audio signal processin
 
 
 
-<img src="/Pictures/aspsoc-poster-tdot.png">
+<img src="/Pictures/aspsoc-poster_low.png">
 
 
 # DE1-SoC by Terasic
