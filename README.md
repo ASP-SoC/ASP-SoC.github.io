@@ -2,13 +2,20 @@
 
 # Home
 
-add some text
+Project Audio Signal Processing - System on Chip
 
 # Abstract
 
-The aim of the project is...
+The aim of this project is to creat a custom customizable audio signal processing chain on a FPGA SoC.
+
+
+
+<img src="/Pictures/aspsoc-poster-tdot.png">
+
 
 # DE1-SoC by Terasic
+
+The project based on the DE1-SoC development board from Terasic.
 
 <img src="/Pictures/DE1_SoC1.jpg">
 
