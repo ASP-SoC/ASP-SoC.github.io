@@ -14,11 +14,11 @@ The platform is fully configurable, so you simply can change the routing or add 
 
 Planned blocks are:
 
-*Equalizer
-*Audio Effects
-*Generic Filters
-*Spectral Analysis
-*Signal Generator
+* Equalizer
+* Audio Effects
+* Generic Filters
+* Spectral Analysis
+* Signal Generator
 
 The Hardware Design is written in VHDL, the simulation is done with ModelSim and the Synthesis with Quartus Prime.
 
