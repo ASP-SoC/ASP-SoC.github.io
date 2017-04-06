@@ -6,7 +6,7 @@ Project Audio Signal Processing - System on Chip
 
 # Abstract
 
-The aim of this project is to creat a universal standalone customizable audio signal processing chain on a FPGA SoC.
+The aim of this project is to create a universal standalone customizable audio signal processing chain on a FPGA SoC.
 
 The audio processing is realized in hardware and the configuration/visualisation interface is based on a Linux OS on the ARM Core of the system. The software is based on a webpage which is hosted on the OS, so you easily can access it with any device with a webbrowser, such as your PC, Laptop or Smartphone. 
 
